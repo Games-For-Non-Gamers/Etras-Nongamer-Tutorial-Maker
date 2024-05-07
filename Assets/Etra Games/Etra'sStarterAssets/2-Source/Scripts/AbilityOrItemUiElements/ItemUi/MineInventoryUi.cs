@@ -344,7 +344,6 @@ namespace Etra.StarterAssets
             tint.transform.localPosition = hotbarImages[num].transform.localPosition;
         }
 
-        //e
         public void ButtonHoverInventory(int num)
         {
             tint.enabled = true;

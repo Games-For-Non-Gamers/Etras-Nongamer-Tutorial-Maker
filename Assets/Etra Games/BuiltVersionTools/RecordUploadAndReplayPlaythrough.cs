@@ -79,6 +79,6 @@ public class RecordUploadAndReplayPlaythrough : MonoBehaviour
 
         //FIX SCENE CHANGE TRIGGER
         //Upload player id and trace file to filestack
-        Debug.Log("eeeeee");
+   //     Debug.Log("eeeeee");
     }
 }

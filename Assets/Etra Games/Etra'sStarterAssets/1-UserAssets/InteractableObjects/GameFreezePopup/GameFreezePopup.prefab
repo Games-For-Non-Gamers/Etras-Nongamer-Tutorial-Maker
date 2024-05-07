@@ -112,7 +112,123 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   defaultPopupSfx: PopupDefault
-  eventList: []
+  eventList:
+  - chosenEvent: 0
+    backgroundFadeTime: 0
+    popupToAdd: {fileID: 0}
+    position: {x: 0, y: 0}
+    popupText: 
+    popupTextSize: 0
+    playDefaultAudio: 0
+    playDefaultAnimation: 0
+    advanceType: 0
+    inputsNeededToAdvance: []
+    timeToWait: 0
+    sfxToPlay: []
+    monoBehaviour: {fileID: 0}
+    selectedGameobject: {fileID: 0}
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    savedObject: {fileID: 0}
+    targetVector3: {x: 0, y: 0, z: 0}
+  - chosenEvent: 13
+    backgroundFadeTime: 0
+    popupToAdd: {fileID: 0}
+    position: {x: 0, y: 0}
+    popupText: 
+    popupTextSize: 0
+    playDefaultAudio: 0
+    playDefaultAnimation: 0
+    advanceType: 0
+    inputsNeededToAdvance: []
+    timeToWait: 0
+    sfxToPlay: []
+    monoBehaviour: {fileID: 0}
+    selectedGameobject: {fileID: 0}
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    savedObject: {fileID: 0}
+    targetVector3: {x: 0, y: 0, z: 0}
+  - chosenEvent: 3
+    backgroundFadeTime: 0
+    popupToAdd: {fileID: 0}
+    position: {x: 0, y: 0}
+    popupText: 
+    popupTextSize: 0
+    playDefaultAudio: 0
+    playDefaultAnimation: 0
+    advanceType: 0
+    inputsNeededToAdvance: []
+    timeToWait: 0
+    sfxToPlay: []
+    monoBehaviour: {fileID: 0}
+    selectedGameobject: {fileID: 0}
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    savedObject: {fileID: 0}
+    targetVector3: {x: 0, y: 0, z: 0}
+  - chosenEvent: 12
+    backgroundFadeTime: 0
+    popupToAdd: {fileID: 0}
+    position: {x: 0, y: 0}
+    popupText: 
+    popupTextSize: 0
+    playDefaultAudio: 0
+    playDefaultAnimation: 0
+    advanceType: 0
+    inputsNeededToAdvance: []
+    timeToWait: 0
+    sfxToPlay: []
+    monoBehaviour: {fileID: 0}
+    selectedGameobject: {fileID: 0}
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    savedObject: {fileID: 0}
+    targetVector3: {x: 0, y: 0, z: 0}
+  - chosenEvent: 2
+    backgroundFadeTime: 0
+    popupToAdd: {fileID: 0}
+    position: {x: 0, y: 0}
+    popupText: 
+    popupTextSize: 0
+    playDefaultAudio: 0
+    playDefaultAnimation: 0
+    advanceType: 0
+    inputsNeededToAdvance: []
+    timeToWait: 0
+    sfxToPlay: []
+    monoBehaviour: {fileID: 0}
+    selectedGameobject: {fileID: 0}
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    savedObject: {fileID: 0}
+    targetVector3: {x: 0, y: 0, z: 0}
+  - chosenEvent: 7
+    backgroundFadeTime: 0
+    popupToAdd: {fileID: 0}
+    position: {x: 0, y: 0}
+    popupText: 
+    popupTextSize: 0
+    playDefaultAudio: 0
+    playDefaultAnimation: 0
+    advanceType: 0
+    inputsNeededToAdvance: []
+    timeToWait: 0
+    sfxToPlay: []
+    monoBehaviour: {fileID: 0}
+    selectedGameobject: {fileID: 0}
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    savedObject: {fileID: 0}
+    targetVector3: {x: 0, y: 0, z: 0}
+  showInEditor: 1
+  showInGame: 0
 --- !u!114 &762813318326815691
 MonoBehaviour:
   m_ObjectHideFlags: 0
